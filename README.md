@@ -38,7 +38,7 @@ Ideal para aprender conceptos financieros o como base para sistemas más complej
 
 Puedes probar la aplicación aquí:
 
-👉 (Agrega aquí tu link de GitHub Pages si lo tienes)
+👉 (https://cotizadordrprestamos.netlify.app/)
 
 ---
 

@@ -1,57 +1,18 @@
-# 💰 Cotizador de Préstamos
+# React + Vite
 
-Aplicación web para simular y calcular préstamos de manera rápida y sencilla. Permite estimar cuotas, intereses y visualizar el comportamiento del crédito.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 📌 Descripción
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-Este proyecto es un cotizador de préstamos que ayuda a los usuarios a calcular el valor de sus cuotas según:
+## React Compiler
 
-- Monto del préstamo
-- Tasa de interés
-- Plazo de pago
+The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
 
-Ideal para aprender conceptos financieros o como base para sistemas más complejos.
+Note: This will impact Vite dev & build performances.
 
----
+## Expanding the ESLint configuration
 
-## Tecnologías utilizadas
-
-- React
-- CSS3
-- JavaScript
-- HTML5
-
----
-
-##  Funcionalidades
-
--  Cálculo automático de cuotas
--  Simulación de préstamos
--  Ajuste dinámico según plazo
--  Visualización de resultados en tiempo real
-
----
-
-## Demo
-
-Puedes probar la aplicación aquí:
-
-👉 (Agrega aquí tu link de GitHub Pages si lo tienes)
-
----
-
-## ⚠️ Nota
-
-Este proyecto está basado en un tutorial de YouTube:
-
-- React - Cotizador de Prestamos - Loan Quoter - JavaScript - ECMA6 (https://www.youtube.com/watch?v=asvy1Uz1fUs&list=PL9c-AU5X8n1T4y1Y3VG-maQYyASZEg-4C&index=2)
-
-Fue desarrollado con fines educativos siguiendo paso a paso el contenido del autor.
-
-## 🚀 Instalación y uso
-
-1. Clona el repositorio:
-```bash
-git clone https://github.com/KaiTm4070/Cotizador-de-prestamos.git
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
